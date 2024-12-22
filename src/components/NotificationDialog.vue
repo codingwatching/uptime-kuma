@@ -114,13 +114,18 @@ export default {
                 "AlertNow": "AlertNow",
                 "apprise": this.$t("apprise"),
                 "Bark": "Bark",
+                "Bitrix24": "Bitrix24",
                 "clicksendsms": "ClickSend SMS",
+                "CallMeBot": "CallMeBot (WhatsApp, Telegram Call, Facebook Messanger)",
                 "discord": "Discord",
+                "Elks": "46elks",
                 "GoogleChat": "Google Chat (Google Workspace)",
                 "gorush": "Gorush",
                 "gotify": "Gotify",
                 "GrafanaOncall": "Grafana Oncall",
+                "HeiiOnCall": "Heii On-Call",
                 "HomeAssistant": "Home Assistant",
+                "Keep": "Keep",
                 "Kook": "Kook",
                 "line": "LINE Messenger",
                 "LineNotify": "LINE Notify",
@@ -131,6 +136,7 @@ export default {
                 "ntfy": "Ntfy",
                 "octopush": "Octopush",
                 "OneBot": "OneBot",
+                "Onesender": "Onesender",
                 "Opsgenie": "Opsgenie",
                 "PagerDuty": "PagerDuty",
                 "PagerTree": "PagerTree",
@@ -140,18 +146,26 @@ export default {
                 "pushy": "Pushy",
                 "rocket.chat": "Rocket.Chat",
                 "signal": "Signal",
+                "SIGNL4": "SIGNL4",
                 "slack": "Slack",
                 "squadcast": "SquadCast",
                 "SMSEagle": "SMSEagle",
+                "SMSPartner": "SMS Partner",
                 "smtp": this.$t("smtp"),
                 "stackfield": "Stackfield",
                 "teams": "Microsoft Teams",
                 "telegram": "Telegram",
+                "threema": "Threema",
                 "twilio": "Twilio",
                 "Splunk": "Splunk",
                 "webhook": "Webhook",
                 "GoAlert": "GoAlert",
-                "ZohoCliq": "ZohoCliq"
+                "ZohoCliq": "ZohoCliq",
+                "SevenIO": "SevenIO",
+                "whapi": "WhatsApp (Whapi)",
+                "gtxmessaging": "GtxMessaging",
+                "Cellsynt": "Cellsynt",
+                "SendGrid": "SendGrid"
             };
 
             // Put notifications here if it's not supported in most regions or its documentation is not in English
@@ -168,6 +182,7 @@ export default {
                 "WeCom": "WeCom (企业微信群机器人)",
                 "ServerChan": "ServerChan (Server酱)",
                 "smsc": "SMSC",
+                "WPush": "WPush(wpush.cn)",
             };
 
             // Sort by notification name
